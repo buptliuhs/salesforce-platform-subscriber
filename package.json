@@ -1,0 +1,14 @@
+{
+  "name": "sf-platform-subscriber",
+  "description": "Salesforce Platform Events Subscriber",
+  "main": "index.js",
+  "license": "MIT",
+  "engines": {
+    "node": "8.11.1"
+  },
+  "dependencies": {
+    "jsforce": "^1.8.4",
+    "nforce": "^1.10.0",
+    "node-fetch": "^2.1.2"
+  }
+}
